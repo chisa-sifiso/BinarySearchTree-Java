@@ -52,5 +52,5 @@
 <h2>Connect with Me</h2>
 <ul>
   <li>GitHub: <a href="https://github.com/chisa-sifiso">chisa-sifiso</a></li>
-  <li>Email: </li>
+  <li>Email: sifisovinjwa1@gmail.com</li>
 </ul>
