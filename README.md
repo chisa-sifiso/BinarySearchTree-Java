@@ -48,7 +48,7 @@
 
 <h2>License</h2>
 <p>This project is licensed under the <strong>MIT License</strong>.</p>
-<h3>Developed by SV </h3>
+<h4>Developed by SV </h4>
 <h2>Connect with Me</h2>
 <ul>
   <li>GitHub: <a href="https://github.com/chisa-sifiso">chisa-sifiso</a></li>
